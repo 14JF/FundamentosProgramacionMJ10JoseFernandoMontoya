@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Desktop\VariablesConstantes JFM\VariablesConstantes JFM\bin\Debug\VariablesConstantes JFM.exe.config
+C:\Users\B09S104est\Desktop\VariablesConstantes JFM\VariablesConstantes JFM\bin\Debug\VariablesConstantes JFM.exe
+C:\Users\B09S104est\Desktop\VariablesConstantes JFM\VariablesConstantes JFM\bin\Debug\VariablesConstantes JFM.pdb
+C:\Users\B09S104est\Desktop\VariablesConstantes JFM\VariablesConstantes JFM\obj\Debug\VariablesConstantes JFM.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Desktop\VariablesConstantes JFM\VariablesConstantes JFM\obj\Debug\VariablesConstantes JFM.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Desktop\VariablesConstantes JFM\VariablesConstantes JFM\obj\Debug\VariablesConstantes JFM.exe
+C:\Users\B09S104est\Desktop\VariablesConstantes JFM\VariablesConstantes JFM\obj\Debug\VariablesConstantes JFM.pdb
