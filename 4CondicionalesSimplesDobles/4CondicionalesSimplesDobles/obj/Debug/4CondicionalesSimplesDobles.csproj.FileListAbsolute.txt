@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MarianaAA\4CondicionalesSimplesDobles\4CondicionalesSimplesDobles\bin\Debug\4CondicionalesSimplesDobles.exe.config
+C:\Users\B09S104est\Documents\MarianaAA\4CondicionalesSimplesDobles\4CondicionalesSimplesDobles\bin\Debug\4CondicionalesSimplesDobles.exe
+C:\Users\B09S104est\Documents\MarianaAA\4CondicionalesSimplesDobles\4CondicionalesSimplesDobles\bin\Debug\4CondicionalesSimplesDobles.pdb
+C:\Users\B09S104est\Documents\MarianaAA\4CondicionalesSimplesDobles\4CondicionalesSimplesDobles\obj\Debug\4CondicionalesSimplesDobles.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MarianaAA\4CondicionalesSimplesDobles\4CondicionalesSimplesDobles\obj\Debug\4CondicionalesSimplesDobles.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MarianaAA\4CondicionalesSimplesDobles\4CondicionalesSimplesDobles\obj\Debug\4CondicionalesSimplesDobles.exe
+C:\Users\B09S104est\Documents\MarianaAA\4CondicionalesSimplesDobles\4CondicionalesSimplesDobles\obj\Debug\4CondicionalesSimplesDobles.pdb
